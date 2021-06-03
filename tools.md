@@ -2,7 +2,7 @@
 _Hello Everyone I am Harsith Priyan S, This Repo contains the list of some basic and must have tools for hackers, it also contains certain tools that I use for Bug Bounties, CTF and Pentesting, so if you are configuring Ubuntu or any other Linux for Hacking this Repo Would be useful_
 ## Tools
 
-1. Msfconsole - This tool is used to probe systematic vulnerabilities on network and servers. This tool is mainly used for exploiting vulnerabilities. You can see the docs to setup this tool.
+1. Msfconsole - This tool is used to probe systematic vulnerabilities on network and servers. This tool is mainly used for exploiting vulnerabilities. You can see the docs to setup this tool. (https://docs.rapid7.com/metasploit/installing-the-metasploit-framework/ )
 
 2. Burpsuite - This tool allows you to intercept browser communication and modify the content. You can visit the official website for more Information (https://portswigger.net/burp)
 
