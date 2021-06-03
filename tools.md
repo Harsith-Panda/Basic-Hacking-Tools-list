@@ -87,4 +87,4 @@ _I have included 4 different Text editor's as each have their own speaciality an
 
 41. Rock You.txt - Even though tere is a lot of other btuteforcing wordlist Rock You.txt has proved yo be my favorite for long time. (https://github.com/brannondorsey/naive-hashcat/releases/download/data/rockyou.txt)
 
-_This list contains most of important and famous tools used for hacking, this kind of tool list has been useful when I have been setting up ubuntu machine for hacking. Hope this woul help you to. Make sure to use this tools legally_
+_This list contains most of important and famous tools used for hacking, this kind of tool list has been useful when I have been setting up ubuntu machine for hacking. Hope this would be helpful for you all. Make sure to use this tools legally_
